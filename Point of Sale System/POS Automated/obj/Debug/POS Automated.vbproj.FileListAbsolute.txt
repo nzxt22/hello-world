@@ -1,0 +1,44 @@
+F:\Pro\P Projects\Themes\POS Automated\POS Automated\bin\Debug\POS Automated.exe.config
+F:\Pro\P Projects\Themes\POS Automated\POS Automated\bin\Debug\POS Automated.exe
+F:\Pro\P Projects\Themes\POS Automated\POS Automated\bin\Debug\POS Automated.pdb
+F:\Pro\P Projects\Themes\POS Automated\POS Automated\bin\Debug\POS Automated.xml
+F:\Pro\P Projects\Themes\POS Automated\POS Automated\obj\Debug\POS_Automated.Resources.resources
+F:\Pro\P Projects\Themes\POS Automated\POS Automated\obj\Debug\POS Automated.vbproj.GenerateResource.Cache
+F:\Pro\P Projects\Themes\POS Automated\POS Automated\obj\Debug\POS Automated.exe
+F:\Pro\P Projects\Themes\POS Automated\POS Automated\obj\Debug\POS Automated.xml
+F:\Pro\P Projects\Themes\POS Automated\POS Automated\obj\Debug\POS Automated.pdb
+F:\Pro\P Projects\Themes\POS Automated\POS Automated\obj\Debug\POS_Automated.AddItem.resources
+F:\Pro\P Projects\Themes\POS Automated\POS Automated\obj\Debug\POS_Automated.ChangePassword.resources
+F:\Pro\P Projects\Themes\POS Automated\POS Automated\obj\Debug\POS_Automated.EditItem.resources
+F:\Pro\P Projects\Themes\POS Automated\POS Automated\obj\Debug\POS_Automated.MainWindow.resources
+F:\Pro\P Projects\Themes\POS Automated\POS Automated\obj\Debug\POS_Automated.PasswordPicker.resources
+F:\Pro\P Projects\Themes\POS Automated 2.0\POS Automated\POS Automated\obj\Debug\POS Automated.vbproj.GenerateResource.Cache
+F:\Pro\P Projects\Themes\POS Automated 2.0\POS Automated\POS Automated\obj\Debug\POS.AboutUs.resources
+F:\Pro\P Projects\Themes\POS Automated 2.0\POS Automated\POS Automated\obj\Debug\POS.AddItem.resources
+F:\Pro\P Projects\Themes\POS Automated 2.0\POS Automated\POS Automated\obj\Debug\POS.ChangePassword.resources
+F:\Pro\P Projects\Themes\POS Automated 2.0\POS Automated\POS Automated\obj\Debug\POS.EditItem.resources
+F:\Pro\P Projects\Themes\POS Automated 2.0\POS Automated\POS Automated\obj\Debug\POS.MainWindow.resources
+F:\Pro\P Projects\Themes\POS Automated 2.0\POS Automated\POS Automated\obj\Debug\POS.Resources.resources
+F:\Pro\P Projects\Themes\POS Automated 2.0\POS Automated\POS Automated\obj\Debug\POS.PasswordPicker.resources
+F:\Pro\P Projects\Themes\POS Automated 2.0\POS Automated\POS Automated\bin\Debug\POS.exe.config
+F:\Pro\P Projects\Themes\POS Automated 2.0\POS Automated\POS Automated\bin\Debug\POS.exe
+F:\Pro\P Projects\Themes\POS Automated 2.0\POS Automated\POS Automated\bin\Debug\POS.pdb
+F:\Pro\P Projects\Themes\POS Automated 2.0\POS Automated\POS Automated\bin\Debug\POS.xml
+F:\Pro\P Projects\Themes\POS Automated 2.0\POS Automated\POS Automated\obj\Debug\POS.exe
+F:\Pro\P Projects\Themes\POS Automated 2.0\POS Automated\POS Automated\obj\Debug\POS.xml
+F:\Pro\P Projects\Themes\POS Automated 2.0\POS Automated\POS Automated\obj\Debug\POS.pdb
+C:\Users\MisterScript\Downloads\Compressed\Point of Sale System\POS Automated\bin\Debug\POS.exe.config
+C:\Users\MisterScript\Downloads\Compressed\Point of Sale System\POS Automated\obj\Debug\POS.exe
+C:\Users\MisterScript\Downloads\Compressed\Point of Sale System\POS Automated\obj\Debug\POS.xml
+C:\Users\MisterScript\Downloads\Compressed\Point of Sale System\POS Automated\obj\Debug\POS.pdb
+C:\Users\MisterScript\Downloads\Compressed\Point of Sale System\POS Automated\bin\Debug\POS.exe
+C:\Users\MisterScript\Downloads\Compressed\Point of Sale System\POS Automated\bin\Debug\POS.pdb
+C:\Users\MisterScript\Downloads\Compressed\Point of Sale System\POS Automated\bin\Debug\POS.xml
+C:\Users\MisterScript\Downloads\Compressed\Point of Sale System\POS Automated\obj\Debug\POS.AboutUs.resources
+C:\Users\MisterScript\Downloads\Compressed\Point of Sale System\POS Automated\obj\Debug\POS.AddItem.resources
+C:\Users\MisterScript\Downloads\Compressed\Point of Sale System\POS Automated\obj\Debug\POS.ChangePassword.resources
+C:\Users\MisterScript\Downloads\Compressed\Point of Sale System\POS Automated\obj\Debug\POS.EditItem.resources
+C:\Users\MisterScript\Downloads\Compressed\Point of Sale System\POS Automated\obj\Debug\POS.MainWindow.resources
+C:\Users\MisterScript\Downloads\Compressed\Point of Sale System\POS Automated\obj\Debug\POS.Resources.resources
+C:\Users\MisterScript\Downloads\Compressed\Point of Sale System\POS Automated\obj\Debug\POS.PasswordPicker.resources
+C:\Users\MisterScript\Downloads\Compressed\Point of Sale System\POS Automated\obj\Debug\POS Automated.vbproj.GenerateResource.Cache
